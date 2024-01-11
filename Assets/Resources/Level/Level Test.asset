@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7500c102ac1f4aa0b7700993f3e8849e, type: 3}
+  m_Name: Level Test
+  m_EditorClassIdentifier: 
+  _levelUpStrategy:
+    rid: -2
+  _boardShapeInLevel:
+    rid: 342207739192410122
+  modeGameType: 0
+  challenges:
+  - rid: 6448553647722987520
+  - rid: 6448553647722987521
+  reward: 1
+  rewardAmount: 2
+  patterns:
+  - value: 000000000600000006000000
+    ratio: 7.5
+  - value: 000000000300000003000000
+    ratio: 6
+  tutorialMod:
+    rid: -2
+  sizePatterns:
+  - sizes: 0100000002000000
+    ratio: 100
+  colorPatterns:
+  - color: 6
+    ratio: 2
+  - color: 3
+    ratio: 1.5
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 342207739192410122
+      type: {class: BoardShapeAdventure, ns: , asm: Assembly-CSharp}
+      data:
+        boardShape: {fileID: 11400000, guid: a376f3cc01f4e5d46984ec365140cee6, type: 2}
+    - rid: 6448553647722987520
+      type: {class: ColorChallenge/ColorData, ns: , asm: Assembly-CSharp}
+      data:
+        require: 8
+        color: 6
+    - rid: 6448553647722987521
+      type: {class: ColorChallenge/ColorData, ns: , asm: Assembly-CSharp}
+      data:
+        require: 10
+        color: 3

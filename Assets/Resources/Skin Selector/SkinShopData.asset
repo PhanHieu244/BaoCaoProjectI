@@ -1,0 +1,766 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01db6294963a4d238b5bd89dd28fd8f0, type: 3}
+  m_Name: SkinShopData
+  m_EditorClassIdentifier: 
+  <RewardSkinsID>k__BackingField: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000150000001600000017000000180000001a0000001b0000001c0000001d0000001f0000002000000021000000220000002300000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000032000000330000003400000035000000
+  <ShopOnlySkinsID>k__BackingField: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000320000003300000034000000350000003600000037000000
+  <LockSkinsID>k__BackingField: 
+  conditions:
+  - rid: 8438582763548049811
+  - rid: 8438582763548049812
+  - rid: 8438582763548049813
+  - rid: 8438582763548049814
+  - rid: 8438582763548049815
+  - rid: 8438582763548049816
+  - rid: 8438582763548049817
+  - rid: 8438582763548049818
+  - rid: 8438582763548049819
+  - rid: 8438582763548049820
+  - rid: 8438582763548049821
+  - rid: 8438582763548049822
+  - rid: 8438582763548049823
+  - rid: 8438582763548049824
+  - rid: 8438582763548049825
+  - rid: 8438582763548049826
+  - rid: 8438582763548049827
+  - rid: 8438582763548049828
+  - rid: 8438582763548049829
+  - rid: 8438582763548049830
+  - rid: 8438582763548049831
+  - rid: 8438582763548049832
+  - rid: 8438582763548049833
+  - rid: 8438582763548049834
+  - rid: 8438582763548049835
+  - rid: 8438582763548049836
+  - rid: 8438582763548049837
+  - rid: 8438582763548049838
+  - rid: 8438582763548049839
+  - rid: 8438582763548049840
+  - rid: 8438582763548049841
+  - rid: 8438582763548049842
+  - rid: 8438582763548049843
+  - rid: 8438582763548049844
+  - rid: 8438582763548049845
+  - rid: 8438582763548049846
+  - rid: 8438582763548049847
+  - rid: 8438582763548049848
+  - rid: 8438582763548049849
+  - rid: 8438582763548049850
+  - rid: 8438582763548049851
+  - rid: 8438582763548049852
+  - rid: 8438582763548049853
+  - rid: 8438582763548049854
+  - rid: 8438582763548049855
+  - rid: 8438582763548049856
+  - rid: 8438582763548049857
+  - rid: 8438582763548049858
+  - rid: 8438582763548049859
+  - rid: 8438582763548049860
+  - rid: 8438582763548049861
+  - rid: 8438582763548049862
+  - rid: 8438582763548049863
+  - rid: 8438582763548049864
+  - rid: 8438582763548049865
+  - rid: 8438582763548049866
+  skinTierHashElements:
+  - <SkinTier>k__BackingField: 0
+    <Coin>k__BackingField: 1
+  - <SkinTier>k__BackingField: 1
+    <Coin>k__BackingField: 150
+  - <SkinTier>k__BackingField: 2
+    <Coin>k__BackingField: 200
+  - <SkinTier>k__BackingField: 3
+    <Coin>k__BackingField: 300
+  - <SkinTier>k__BackingField: 4
+    <Coin>k__BackingField: 500
+  - <SkinTier>k__BackingField: 5
+    <Coin>k__BackingField: 1000
+  - <SkinTier>k__BackingField: 6
+    <Coin>k__BackingField: 1500
+  settingRewardSkin:
+  - name: 0000.rings_wood_stroke
+    isInShop: 1
+    skinTier: 0
+    lockSkin: 0
+  - name: 0001.bird
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0002.pastel
+    isInShop: 1
+    skinTier: 0
+    lockSkin: 0
+  - name: 0003.cowboys
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0004.diamond
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0005.eggs
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0006.fish
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0007.graduate
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0008.hexagon_cookies
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0009.hexagon_origami
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0010.ice_cream
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0011.lipstick
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0012.bow_ribbon
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0013.rhombus_diamond
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0014.rhombus_wood
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0015.rings_diamond
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0016.rocket
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0017.scissors
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0018.square_diamond
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0019.square_wood
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0020.bell_christmas
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  - name: 0021.Christmas_trees
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0022.snow_flake
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0023.cactus
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0024.Socks_christmas_skin
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0025.pumpkin
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  - name: 0026.witch
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0027.cake
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0028.cake_birthday
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0029.bubbles
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0030.donut_circle
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  - name: 0031.Ice_cream
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0032.Metal
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0033.alarm_clock
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0034.pizza
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0035.turkey_chicken
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0036.vintage_phone
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  - name: 0037.turtle
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0038.gift_box
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0039.conch
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0040.cooking_pot
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0041.rugby
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0042.tennis_racket
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0043.cup
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0044.badminton
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0045.milk
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0046.captain_shield
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0047.macaron
+    isInShop: 1
+    skinTier: 1
+    lockSkin: 0
+  - name: 0048.knoll_christmas
+    isInShop: 0
+    skinTier: 4
+    lockSkin: 0
+  - name: 0049.cookies_christmas
+    isInShop: 0
+    skinTier: 4
+    lockSkin: 0
+  - name: 0050.toilet
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0051.megaphone
+    isInShop: 1
+    skinTier: 2
+    lockSkin: 0
+  - name: 0052.saturn
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0053.rabbit
+    isInShop: 1
+    skinTier: 3
+    lockSkin: 0
+  - name: 0054.chocolate
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  - name: 0055.headphone
+    isInShop: 1
+    skinTier: 4
+    lockSkin: 0
+  shopOnlySkinData:
+  - name: 0000.rings_wood_stroke
+    condition:
+      rid: 8438582763548049811
+  - name: 0001.bird
+    condition:
+      rid: 8438582763548049812
+  - name: 0002.pastel
+    condition:
+      rid: 8438582763548049813
+  - name: 0003.cowboys
+    condition:
+      rid: 8438582763548049814
+  - name: 0004.diamond
+    condition:
+      rid: 8438582763548049815
+  - name: 0005.eggs
+    condition:
+      rid: 8438582763548049816
+  - name: 0006.fish
+    condition:
+      rid: 8438582763548049817
+  - name: 0007.graduate
+    condition:
+      rid: 8438582763548049818
+  - name: 0008.hexagon_cookies
+    condition:
+      rid: 8438582763548049819
+  - name: 0009.hexagon_origami
+    condition:
+      rid: 8438582763548049820
+  - name: 0010.ice_cream
+    condition:
+      rid: 8438582763548049821
+  - name: 0011.lipstick
+    condition:
+      rid: 8438582763548049822
+  - name: 0012.bow_ribbon
+    condition:
+      rid: 8438582763548049823
+  - name: 0013.rhombus_diamond
+    condition:
+      rid: 8438582763548049824
+  - name: 0014.rhombus_wood
+    condition:
+      rid: 8438582763548049825
+  - name: 0015.rings_diamond
+    condition:
+      rid: 8438582763548049826
+  - name: 0016.rocket
+    condition:
+      rid: 8438582763548049827
+  - name: 0017.scissors
+    condition:
+      rid: 8438582763548049828
+  - name: 0018.square_diamond
+    condition:
+      rid: 8438582763548049829
+  - name: 0019.square_wood
+    condition:
+      rid: 8438582763548049830
+  - name: 0020.bell_christmas
+    condition:
+      rid: 8438582763548049831
+  - name: 0021.Christmas_trees
+    condition:
+      rid: 8438582763548049832
+  - name: 0022.snow_flake
+    condition:
+      rid: 8438582763548049833
+  - name: 0023.cactus
+    condition:
+      rid: 8438582763548049834
+  - name: 0024.Socks_christmas_skin
+    condition:
+      rid: 8438582763548049835
+  - name: 0025.pumpkin
+    condition:
+      rid: 8438582763548049836
+  - name: 0026.witch
+    condition:
+      rid: 8438582763548049837
+  - name: 0027.cake
+    condition:
+      rid: 8438582763548049838
+  - name: 0028.cake_birthday
+    condition:
+      rid: 8438582763548049839
+  - name: 0029.bubbles
+    condition:
+      rid: 8438582763548049840
+  - name: 0030.donut_circle
+    condition:
+      rid: 8438582763548049841
+  - name: 0031.Ice_cream
+    condition:
+      rid: 8438582763548049842
+  - name: 0032.Metal
+    condition:
+      rid: 8438582763548049843
+  - name: 0033.alarm_clock
+    condition:
+      rid: 8438582763548049844
+  - name: 0034.pizza
+    condition:
+      rid: 8438582763548049845
+  - name: 0035.turkey_chicken
+    condition:
+      rid: 8438582763548049846
+  - name: 0036.vintage_phone
+    condition:
+      rid: 8438582763548049847
+  - name: 0037.turtle
+    condition:
+      rid: 8438582763548049848
+  - name: 0038.gift_box
+    condition:
+      rid: 8438582763548049849
+  - name: 0039.conch
+    condition:
+      rid: 8438582763548049850
+  - name: 0040.cooking_pot
+    condition:
+      rid: 8438582763548049851
+  - name: 0041.rugby
+    condition:
+      rid: 8438582763548049852
+  - name: 0042.tennis_racket
+    condition:
+      rid: 8438582763548049853
+  - name: 0043.cup
+    condition:
+      rid: 8438582763548049854
+  - name: 0044.badminton
+    condition:
+      rid: 8438582763548049855
+  - name: 0045.milk
+    condition:
+      rid: 8438582763548049856
+  - name: 0046.captain_shield
+    condition:
+      rid: 8438582763548049857
+  - name: 0047.macaron
+    condition:
+      rid: 8438582763548049858
+  - name: 0048.knoll_christmas
+    condition:
+      rid: 8438582763548049859
+  - name: 0049.cookies_christmas
+    condition:
+      rid: 8438582763548049860
+  - name: 0050.toilet
+    condition:
+      rid: 8438582763548049861
+  - name: 0051.megaphone
+    condition:
+      rid: 8438582763548049862
+  - name: 0052.saturn
+    condition:
+      rid: 8438582763548049863
+  - name: 0053.rabbit
+    condition:
+      rid: 8438582763548049864
+  - name: 0054.chocolate
+    condition:
+      rid: 8438582763548049865
+  - name: 0055.headphone
+    condition:
+      rid: 8438582763548049866
+  references:
+    version: 2
+    RefIds:
+    - rid: 8438582763548049811
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 1
+        skinTier: 0
+    - rid: 8438582763548049812
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049813
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 1
+        skinTier: 0
+    - rid: 8438582763548049814
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049815
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049816
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049817
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049818
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049819
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049820
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049821
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049822
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049823
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049824
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049825
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049826
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049827
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049828
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049829
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049830
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049831
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049832
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049833
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049834
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049835
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049836
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049837
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049838
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049839
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049840
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049841
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049842
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049843
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049844
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049845
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049846
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049847
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049848
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049849
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049850
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049851
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049852
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049853
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049854
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049855
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049856
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049857
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049858
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 150
+        skinTier: 1
+    - rid: 8438582763548049859
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049860
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049861
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049862
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 200
+        skinTier: 2
+    - rid: 8438582763548049863
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049864
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 300
+        skinTier: 3
+    - rid: 8438582763548049865
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4
+    - rid: 8438582763548049866
+      type: {class: NoneCondition, ns: , asm: Assembly-CSharp}
+      data:
+        coin: 500
+        skinTier: 4

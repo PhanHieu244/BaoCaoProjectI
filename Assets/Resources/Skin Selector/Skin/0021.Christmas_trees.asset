@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc29265b6ffe4a8ca92c3da12325be99, type: 3}
+  m_Name: 0021.Christmas_trees
+  m_EditorClassIdentifier: 
+  skinImage:
+  - {fileID: 21300000, guid: 96683accea7f26b40aa4f57a7d38c2fe, type: 3}
+  - {fileID: 21300000, guid: 7bb0290f0945c0d49b1fac117bc2dfcd, type: 3}
+  - {fileID: 21300000, guid: a506657ecf2e9914da07ab8f9f0e6b2e, type: 3}
+  - {fileID: 21300000, guid: 27a064bba1b264543bd2804f7503aef3, type: 3}
+  - {fileID: 21300000, guid: 0b1ede32c3e3d8e429f112ecf96b6c87, type: 3}
+  - {fileID: 21300000, guid: 8a4633f3513f51541bc3ef7640c5341c, type: 3}
+  - {fileID: 21300000, guid: e4344ca24641d7f41918d540d22224e8, type: 3}
+  - {fileID: 21300000, guid: 3ca2d3d5eb38d4f42a1dfb7b78ae1ce7, type: 3}
+  - {fileID: 21300000, guid: 8d359c8ad17b046439b49cf64546f479, type: 3}
+  - {fileID: 21300000, guid: 76b64df288a79b44fb682c772a5fd6dc, type: 3}
+  - {fileID: 21300000, guid: 58f17911cd4ab4b44a10f4badc26ff4b, type: 3}
+  - {fileID: 21300000, guid: 9e0f6b4ec20dc8d4b9386a4a8b44f16b, type: 3}
+  - {fileID: 21300000, guid: 93c32710b3f6abb4aaea9c622cd8398c, type: 3}
+  - {fileID: 21300000, guid: 97d950849a3b13d4fa380f73355d3553, type: 3}
+  - {fileID: 21300000, guid: 7f865599ee188c8429fa002b3b03fa01, type: 3}
+  - {fileID: 21300000, guid: 36acaa1e2523f8d469239e3caafbbe80, type: 3}
+  - {fileID: 21300000, guid: 14181f43f93209142a56124e4c233a08, type: 3}
+  - {fileID: 21300000, guid: 5b5cd3d60057d404992f4cf9d0635e3d, type: 3}
+  - {fileID: 21300000, guid: 1f5be043c945ff444974956638c0455c, type: 3}
+  - {fileID: 21300000, guid: 6768f558f6d755142b3f4921bde46f68, type: 3}
+  - {fileID: 21300000, guid: 85b4177c47beff841b46f944e2f4f043, type: 3}
+  - {fileID: 21300000, guid: ccf4cf54fa07ec740b7970d895fd44d8, type: 3}
+  - {fileID: 21300000, guid: 5512c578b2c6486409fa3c9d84d735f0, type: 3}
+  - {fileID: 21300000, guid: b89595f96e89e8d4cab0a55618b7de00, type: 3}
+  - {fileID: 21300000, guid: 5f172146d27f3824a8e53e6009854b01, type: 3}
+  - {fileID: 21300000, guid: f7223fd4027fd5b4e960112de72bd353, type: 3}
+  - {fileID: 21300000, guid: 1ef9db00a904ae3408f35477829e59ba, type: 3}
+  <SkinShape>k__BackingField: {fileID: 21300000, guid: 9faeaf19cb0b493428beb24e1b29278a, type: 3}
+  <ShowFullSkin>k__BackingField: 1
+  <NameToLoad>k__BackingField: 0021.Christmas_trees
+  skinListEditor:
+  - size: 0
+    color: 1
+    skinImage: {fileID: 21300000, guid: 96683accea7f26b40aa4f57a7d38c2fe, type: 3}
+  - size: 0
+    color: 2
+    skinImage: {fileID: 21300000, guid: 27a064bba1b264543bd2804f7503aef3, type: 3}
+  - size: 0
+    color: 3
+    skinImage: {fileID: 21300000, guid: e4344ca24641d7f41918d540d22224e8, type: 3}
+  - size: 0
+    color: 4
+    skinImage: {fileID: 21300000, guid: 76b64df288a79b44fb682c772a5fd6dc, type: 3}
+  - size: 0
+    color: 5
+    skinImage: {fileID: 21300000, guid: 93c32710b3f6abb4aaea9c622cd8398c, type: 3}
+  - size: 0
+    color: 6
+    skinImage: {fileID: 21300000, guid: 36acaa1e2523f8d469239e3caafbbe80, type: 3}
+  - size: 0
+    color: 7
+    skinImage: {fileID: 21300000, guid: 1f5be043c945ff444974956638c0455c, type: 3}
+  - size: 0
+    color: 8
+    skinImage: {fileID: 21300000, guid: ccf4cf54fa07ec740b7970d895fd44d8, type: 3}
+  - size: 0
+    color: 9
+    skinImage: {fileID: 21300000, guid: 5f172146d27f3824a8e53e6009854b01, type: 3}
+  - size: 1
+    color: 1
+    skinImage: {fileID: 21300000, guid: 7bb0290f0945c0d49b1fac117bc2dfcd, type: 3}
+  - size: 1
+    color: 2
+    skinImage: {fileID: 21300000, guid: 0b1ede32c3e3d8e429f112ecf96b6c87, type: 3}
+  - size: 1
+    color: 3
+    skinImage: {fileID: 21300000, guid: 3ca2d3d5eb38d4f42a1dfb7b78ae1ce7, type: 3}
+  - size: 1
+    color: 4
+    skinImage: {fileID: 21300000, guid: 58f17911cd4ab4b44a10f4badc26ff4b, type: 3}
+  - size: 1
+    color: 5
+    skinImage: {fileID: 21300000, guid: 97d950849a3b13d4fa380f73355d3553, type: 3}
+  - size: 1
+    color: 6
+    skinImage: {fileID: 21300000, guid: 14181f43f93209142a56124e4c233a08, type: 3}
+  - size: 1
+    color: 7
+    skinImage: {fileID: 21300000, guid: 6768f558f6d755142b3f4921bde46f68, type: 3}
+  - size: 1
+    color: 8
+    skinImage: {fileID: 21300000, guid: 5512c578b2c6486409fa3c9d84d735f0, type: 3}
+  - size: 1
+    color: 9
+    skinImage: {fileID: 21300000, guid: f7223fd4027fd5b4e960112de72bd353, type: 3}
+  - size: 2
+    color: 1
+    skinImage: {fileID: 21300000, guid: a506657ecf2e9914da07ab8f9f0e6b2e, type: 3}
+  - size: 2
+    color: 2
+    skinImage: {fileID: 21300000, guid: 8a4633f3513f51541bc3ef7640c5341c, type: 3}
+  - size: 2
+    color: 3
+    skinImage: {fileID: 21300000, guid: 8d359c8ad17b046439b49cf64546f479, type: 3}
+  - size: 2
+    color: 4
+    skinImage: {fileID: 21300000, guid: 9e0f6b4ec20dc8d4b9386a4a8b44f16b, type: 3}
+  - size: 2
+    color: 5
+    skinImage: {fileID: 21300000, guid: 7f865599ee188c8429fa002b3b03fa01, type: 3}
+  - size: 2
+    color: 6
+    skinImage: {fileID: 21300000, guid: 5b5cd3d60057d404992f4cf9d0635e3d, type: 3}
+  - size: 2
+    color: 7
+    skinImage: {fileID: 21300000, guid: 85b4177c47beff841b46f944e2f4f043, type: 3}
+  - size: 2
+    color: 8
+    skinImage: {fileID: 21300000, guid: b89595f96e89e8d4cab0a55618b7de00, type: 3}
+  - size: 2
+    color: 9
+    skinImage: {fileID: 21300000, guid: 1ef9db00a904ae3408f35477829e59ba, type: 3}

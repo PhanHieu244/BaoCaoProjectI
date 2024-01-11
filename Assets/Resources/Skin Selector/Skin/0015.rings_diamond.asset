@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc29265b6ffe4a8ca92c3da12325be99, type: 3}
+  m_Name: 0015.rings_diamond
+  m_EditorClassIdentifier: 
+  skinImage:
+  - {fileID: 21300000, guid: d9d4efddb645d1f4783d904f488ae2b2, type: 3}
+  - {fileID: 21300000, guid: 7c20a6c9c955c7f45a6f4bfb5e0363c0, type: 3}
+  - {fileID: 21300000, guid: 522efad84f7f86b4083658f07d5d13d8, type: 3}
+  - {fileID: 21300000, guid: ba0ddabaa38363249923cf286a8ea7fe, type: 3}
+  - {fileID: 21300000, guid: 53dd87d6f264cc544940f85a8b877439, type: 3}
+  - {fileID: 21300000, guid: edf969a2023117a4abaec88101927cbc, type: 3}
+  - {fileID: 21300000, guid: dae56ef2f786bb34d942e1a809f27de6, type: 3}
+  - {fileID: 21300000, guid: 35a81299a9c97fc429f0e94f8678f4ae, type: 3}
+  - {fileID: 21300000, guid: ed02fdfab64dab042ab4c5fb25f9400c, type: 3}
+  - {fileID: 21300000, guid: 66e000522bb0fdf40a58114a995c490b, type: 3}
+  - {fileID: 21300000, guid: 50a5334c1002a2d48bca051486fdf7bc, type: 3}
+  - {fileID: 21300000, guid: 7857f78dfe758784793974d1faeb8fd0, type: 3}
+  - {fileID: 21300000, guid: 852834898bfb4bd49ae2620f698a1e8e, type: 3}
+  - {fileID: 21300000, guid: 0ce896b14b085144f881ce8390cef93c, type: 3}
+  - {fileID: 21300000, guid: 4972af30a545069428719d2bf1545adf, type: 3}
+  - {fileID: 21300000, guid: d0641056906bc3b4d99b22bd731ebaf6, type: 3}
+  - {fileID: 21300000, guid: 22099057532a1a3439ecd0ed8def74c6, type: 3}
+  - {fileID: 21300000, guid: f397e9caa796d95409fd9bb9754e533b, type: 3}
+  - {fileID: 21300000, guid: 924354c1ebd76c147836356e8483008e, type: 3}
+  - {fileID: 21300000, guid: 697be4e58347de146a4cc44bee51fff3, type: 3}
+  - {fileID: 21300000, guid: 184bcc3944a31024994dbe032abcee90, type: 3}
+  - {fileID: 21300000, guid: 55d643e63206ac1419e56abcf57b98ca, type: 3}
+  - {fileID: 21300000, guid: 58a188830a583604a89f046cfd591067, type: 3}
+  - {fileID: 21300000, guid: fcd79043efca3c149ae37dba3f817134, type: 3}
+  - {fileID: 21300000, guid: 4ede3ad88942d2b429ee34f1664abde0, type: 3}
+  - {fileID: 21300000, guid: 86b57cf3cb3a1ad4e8aa166ed49ece91, type: 3}
+  - {fileID: 21300000, guid: 49049fda3b7a3b448a6610888c03395c, type: 3}
+  <SkinShape>k__BackingField: {fileID: 21300000, guid: edd49288f509c49448e50734eab0449e, type: 3}
+  <ShowFullSkin>k__BackingField: 0
+  <NameToLoad>k__BackingField: 0015.rings_diamond
+  skinListEditor:
+  - size: 0
+    color: 1
+    skinImage: {fileID: 21300000, guid: d9d4efddb645d1f4783d904f488ae2b2, type: 3}
+  - size: 0
+    color: 2
+    skinImage: {fileID: 21300000, guid: ba0ddabaa38363249923cf286a8ea7fe, type: 3}
+  - size: 0
+    color: 3
+    skinImage: {fileID: 21300000, guid: dae56ef2f786bb34d942e1a809f27de6, type: 3}
+  - size: 0
+    color: 4
+    skinImage: {fileID: 21300000, guid: 66e000522bb0fdf40a58114a995c490b, type: 3}
+  - size: 0
+    color: 5
+    skinImage: {fileID: 21300000, guid: 852834898bfb4bd49ae2620f698a1e8e, type: 3}
+  - size: 0
+    color: 6
+    skinImage: {fileID: 21300000, guid: d0641056906bc3b4d99b22bd731ebaf6, type: 3}
+  - size: 0
+    color: 7
+    skinImage: {fileID: 21300000, guid: 924354c1ebd76c147836356e8483008e, type: 3}
+  - size: 0
+    color: 8
+    skinImage: {fileID: 21300000, guid: 55d643e63206ac1419e56abcf57b98ca, type: 3}
+  - size: 0
+    color: 9
+    skinImage: {fileID: 21300000, guid: 4ede3ad88942d2b429ee34f1664abde0, type: 3}
+  - size: 1
+    color: 1
+    skinImage: {fileID: 21300000, guid: 7c20a6c9c955c7f45a6f4bfb5e0363c0, type: 3}
+  - size: 1
+    color: 2
+    skinImage: {fileID: 21300000, guid: 53dd87d6f264cc544940f85a8b877439, type: 3}
+  - size: 1
+    color: 3
+    skinImage: {fileID: 21300000, guid: 35a81299a9c97fc429f0e94f8678f4ae, type: 3}
+  - size: 1
+    color: 4
+    skinImage: {fileID: 21300000, guid: 50a5334c1002a2d48bca051486fdf7bc, type: 3}
+  - size: 1
+    color: 5
+    skinImage: {fileID: 21300000, guid: 0ce896b14b085144f881ce8390cef93c, type: 3}
+  - size: 1
+    color: 6
+    skinImage: {fileID: 21300000, guid: 22099057532a1a3439ecd0ed8def74c6, type: 3}
+  - size: 1
+    color: 7
+    skinImage: {fileID: 21300000, guid: 697be4e58347de146a4cc44bee51fff3, type: 3}
+  - size: 1
+    color: 8
+    skinImage: {fileID: 21300000, guid: 58a188830a583604a89f046cfd591067, type: 3}
+  - size: 1
+    color: 9
+    skinImage: {fileID: 21300000, guid: 86b57cf3cb3a1ad4e8aa166ed49ece91, type: 3}
+  - size: 2
+    color: 1
+    skinImage: {fileID: 21300000, guid: 522efad84f7f86b4083658f07d5d13d8, type: 3}
+  - size: 2
+    color: 2
+    skinImage: {fileID: 21300000, guid: edf969a2023117a4abaec88101927cbc, type: 3}
+  - size: 2
+    color: 3
+    skinImage: {fileID: 21300000, guid: ed02fdfab64dab042ab4c5fb25f9400c, type: 3}
+  - size: 2
+    color: 4
+    skinImage: {fileID: 21300000, guid: 7857f78dfe758784793974d1faeb8fd0, type: 3}
+  - size: 2
+    color: 5
+    skinImage: {fileID: 21300000, guid: 4972af30a545069428719d2bf1545adf, type: 3}
+  - size: 2
+    color: 6
+    skinImage: {fileID: 21300000, guid: f397e9caa796d95409fd9bb9754e533b, type: 3}
+  - size: 2
+    color: 7
+    skinImage: {fileID: 21300000, guid: 184bcc3944a31024994dbe032abcee90, type: 3}
+  - size: 2
+    color: 8
+    skinImage: {fileID: 21300000, guid: fcd79043efca3c149ae37dba3f817134, type: 3}
+  - size: 2
+    color: 9
+    skinImage: {fileID: 21300000, guid: 49049fda3b7a3b448a6610888c03395c, type: 3}

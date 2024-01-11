@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7500c102ac1f4aa0b7700993f3e8849e, type: 3}
+  m_Name: Level 12
+  m_EditorClassIdentifier: 
+  _levelUpStrategy:
+    rid: -2
+  _boardShapeInLevel:
+    rid: -2
+  modeGameType: 0
+  challenges:
+  - rid: 2290898948702339073
+  - rid: 2290899156015513600
+  - rid: 2290899156015513601
+  reward: 1
+  rewardAmount: 2
+  patterns:
+  - value: 000000000100000001000000
+    ratio: 3.9772727
+  - value: 000000000200000001000000
+    ratio: 2.3863637
+  - value: 000000000500000001000000
+    ratio: 3.9772727
+  - value: 000000000400000001000000
+    ratio: 2.3863637
+  - value: 000000000600000001000000
+    ratio: 4.7727275
+  - value: 000000000100000002000000
+    ratio: 2.3863637
+  - value: 000000000200000002000000
+    ratio: 1.4318181
+  - value: 000000000500000002000000
+    ratio: 2.3863637
+  - value: 000000000400000002000000
+    ratio: 1.4318181
+  - value: 000000000600000002000000
+    ratio: 2.8636363
+  - value: 000000000100000005000000
+    ratio: 3.9772727
+  - value: 000000000200000005000000
+    ratio: 2.3863637
+  - value: 000000000500000005000000
+    ratio: 3.9772727
+  - value: 000000000400000005000000
+    ratio: 2.3863637
+  - value: 000000000600000005000000
+    ratio: 4.7727275
+  - value: 000000000100000004000000
+    ratio: 2.3863637
+  - value: 000000000200000004000000
+    ratio: 1.4318181
+  - value: 000000000500000004000000
+    ratio: 2.3863637
+  - value: 000000000400000004000000
+    ratio: 1.4318181
+  - value: 000000000600000004000000
+    ratio: 2.8636363
+  - value: 000000000100000006000000
+    ratio: 4.7727275
+  - value: 000000000200000006000000
+    ratio: 2.8636363
+  - value: 000000000500000006000000
+    ratio: 4.7727275
+  - value: 000000000400000006000000
+    ratio: 2.8636363
+  - value: 000000000600000006000000
+    ratio: 5.7272725
+  - value: 000000000100000000000000
+    ratio: 25
+  - value: 000000000200000000000000
+    ratio: 15
+  - value: 000000000500000000000000
+    ratio: 25
+  - value: 000000000400000000000000
+    ratio: 15
+  - value: 000000000600000000000000
+    ratio: 30
+  - value: 000000000000000001000000
+    ratio: 20
+  - value: 000000000000000002000000
+    ratio: 12
+  - value: 000000000000000005000000
+    ratio: 20
+  - value: 000000000000000004000000
+    ratio: 12
+  - value: 000000000000000006000000
+    ratio: 24
+  - value: 010000000000000000000000
+    ratio: 15
+  - value: 020000000000000000000000
+    ratio: 9
+  - value: 050000000000000000000000
+    ratio: 15
+  - value: 040000000000000000000000
+    ratio: 9
+  - value: 060000000000000000000000
+    ratio: 18
+  - value: 010000000100000000000000
+    ratio: 3.9772727
+  - value: 020000000100000000000000
+    ratio: 2.3863637
+  - value: 050000000100000000000000
+    ratio: 3.9772727
+  - value: 040000000100000000000000
+    ratio: 2.3863637
+  - value: 060000000100000000000000
+    ratio: 4.7727275
+  - value: 010000000200000000000000
+    ratio: 2.3863637
+  - value: 020000000200000000000000
+    ratio: 1.4318181
+  - value: 050000000200000000000000
+    ratio: 2.3863637
+  - value: 040000000200000000000000
+    ratio: 1.4318181
+  - value: 060000000200000000000000
+    ratio: 2.8636363
+  - value: 010000000500000000000000
+    ratio: 3.9772727
+  - value: 020000000500000000000000
+    ratio: 2.3863637
+  - value: 050000000500000000000000
+    ratio: 3.9772727
+  - value: 040000000500000000000000
+    ratio: 2.3863637
+  - value: 060000000500000000000000
+    ratio: 4.7727275
+  - value: 010000000400000000000000
+    ratio: 2.3863637
+  - value: 020000000400000000000000
+    ratio: 1.4318181
+  - value: 050000000400000000000000
+    ratio: 2.3863637
+  - value: 040000000400000000000000
+    ratio: 1.4318181
+  - value: 060000000400000000000000
+    ratio: 2.8636363
+  - value: 010000000600000000000000
+    ratio: 4.7727275
+  - value: 020000000600000000000000
+    ratio: 2.8636363
+  - value: 050000000600000000000000
+    ratio: 4.7727275
+  - value: 040000000600000000000000
+    ratio: 2.8636363
+  - value: 060000000600000000000000
+    ratio: 5.7272725
+  - value: 010000000000000001000000
+    ratio: 2.2727273
+  - value: 020000000000000001000000
+    ratio: 1.3636365
+  - value: 050000000000000001000000
+    ratio: 2.2727273
+  - value: 040000000000000001000000
+    ratio: 1.3636365
+  - value: 060000000000000001000000
+    ratio: 2.727273
+  - value: 010000000000000002000000
+    ratio: 1.3636364
+  - value: 020000000000000002000000
+    ratio: 0.8181818
+  - value: 050000000000000002000000
+    ratio: 1.3636364
+  - value: 040000000000000002000000
+    ratio: 0.8181818
+  - value: 060000000000000002000000
+    ratio: 1.6363636
+  - value: 010000000000000005000000
+    ratio: 2.2727273
+  - value: 020000000000000005000000
+    ratio: 1.3636365
+  - value: 050000000000000005000000
+    ratio: 2.2727273
+  - value: 040000000000000005000000
+    ratio: 1.3636365
+  - value: 060000000000000005000000
+    ratio: 2.727273
+  - value: 010000000000000004000000
+    ratio: 1.3636364
+  - value: 020000000000000004000000
+    ratio: 0.8181818
+  - value: 050000000000000004000000
+    ratio: 1.3636364
+  - value: 040000000000000004000000
+    ratio: 0.8181818
+  - value: 060000000000000004000000
+    ratio: 1.6363636
+  - value: 010000000000000006000000
+    ratio: 2.7272727
+  - value: 020000000000000006000000
+    ratio: 1.6363636
+  - value: 050000000000000006000000
+    ratio: 2.7272727
+  - value: 040000000000000006000000
+    ratio: 1.6363636
+  - value: 060000000000000006000000
+    ratio: 3.2727273
+  tutorialMod:
+    rid: 1823353279042027531
+  sizePatterns:
+  - sizes: 0100000002000000
+    ratio: 3.5
+  - sizes: 01000000
+    ratio: 5
+  - sizes: 02000000
+    ratio: 4
+  - sizes: 00000000
+    ratio: 3
+  - sizes: 0000000001000000
+    ratio: 3.5
+  - sizes: 0000000002000000
+    ratio: 2
+  colorPatterns:
+  - color: 1
+    ratio: 5
+  - color: 2
+    ratio: 3
+  - color: 5
+    ratio: 5
+  - color: 4
+    ratio: 3
+  - color: 6
+    ratio: 6
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1823353279042027531
+      type: {class: SwapTutorial, ns: , asm: Assembly-CSharp}
+      data:
+        boardData:
+          tiles:
+          - colors: 
+          - colors: 
+          - colors: 
+          - colors: 
+          - colors: 000000000100000001000000
+          - colors: 
+          - colors: 000000000100000001000000
+          - colors: 
+          - colors: 
+        targetCoords:
+        - {x: 1, y: 1}
+        - {x: 0, y: 0}
+    - rid: 2290898948702339073
+      type: {class: ColorChallenge/ColorData, ns: , asm: Assembly-CSharp}
+      data:
+        require: 7
+        color: 5
+    - rid: 2290899156015513600
+      type: {class: ColorChallenge/ColorData, ns: , asm: Assembly-CSharp}
+      data:
+        require: 8
+        color: 6
+    - rid: 2290899156015513601
+      type: {class: ColorChallenge/ColorData, ns: , asm: Assembly-CSharp}
+      data:
+        require: 9
+        color: 1

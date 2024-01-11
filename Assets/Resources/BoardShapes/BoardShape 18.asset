@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f4299cb3064fa5bd28fd2ffa0d2bee, type: 3}
+  m_Name: BoardShape 18
+  m_EditorClassIdentifier: 
+  <AvailableTiles>k__BackingField:
+  - {x: 0, y: 1}
+  - {x: 0, y: 2}
+  - {x: 0, y: 3}
+  - {x: 1, y: 0}
+  - {x: 1, y: 2}
+  - {x: 2, y: 1}
+  - {x: 2, y: 2}
+  - {x: 2, y: 3}
+  - {x: 2, y: 4}
+  - {x: 2, y: 5}
+  - {x: 3, y: 0}
+  - {x: 3, y: 2}
+  - {x: 4, y: 1}
+  - {x: 4, y: 2}
+  - {x: 4, y: 3}
+  <Size>k__BackingField: {x: 5, y: 6}
+  <RotateZ>k__BackingField: 0
+  <Height>k__BackingField: 6
+  <DeltaRotatePos>k__BackingField: 0
+  <MaxSize>k__BackingField: 6
+  randomLockTiles:
+  - {x: 0, y: 3}
+  - {x: 2, y: 5}
+  - {x: 4, y: 3}
+  absoluteLockTiles:
+  - {x: 2, y: 1}
+  _lockTileStrategy:
+    rid: 342207926824337486
+  nameToLoadTileMap: 18
+  tileMapAvailable: {fileID: 4891862375005724888, guid: 757a5c260c021f840aaedfc0143b54da, type: 3}
+  tilemapRandomLock: {fileID: 4583621022832285306, guid: 757a5c260c021f840aaedfc0143b54da, type: 3}
+  tilemapAbsoluteLock: {fileID: 4841302750636042344, guid: 757a5c260c021f840aaedfc0143b54da, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: 342207926824337486
+      type: {class: GetLockTilesByAmount, ns: , asm: Assembly-CSharp}
+      data:
+        amount: 2

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8313334476701372186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3673947619486405248}
+  - component: {fileID: 8833480097205035215}
+  m_Layer: 0
+  m_Name: Game Loader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3673947619486405248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8313334476701372186}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8833480097205035215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8313334476701372186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15f689bc6e501784d808bad3f5900edf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gamePlayModes:
+  - modeGameType: 0
+    gameManager: {fileID: 8424112529902586766, guid: efdc197becaf4d14f9f4fac3a1be84ba, type: 3}
+    uiInGame: {fileID: 3092406264023642160, guid: 2cd6c9acc142ed94bbe60f5282d8c47e, type: 3}
+  - modeGameType: 1
+    gameManager: {fileID: 1636724509102199672, guid: 8c9f7c3998d7dcb40a0425986e655ff0, type: 3}
+    uiInGame: {fileID: 5162527098441725587, guid: c0ec7e65fda36104ea31af20a50595ea, type: 3}
+  - modeGameType: 2
+    gameManager: {fileID: 1636724509102199672, guid: dcc81e2265ff5da4191215cdc4396b17, type: 3}
+    uiInGame: {fileID: 5162527098441725587, guid: 29662d330fa40a147bdf3172bcf72b9c, type: 3}
+  - modeGameType: 3
+    gameManager: {fileID: 5509871620053775048, guid: fd88c4331ac96e14cb80c95e11018533, type: 3}
+    uiInGame: {fileID: 1674786395242685615, guid: 7790897e522af7944af78234beeb7d6b, type: 3}
+  - modeGameType: 5
+    gameManager: {fileID: 2673111556013940025, guid: 045d3d2da4590af4993bc77af51f6c75, type: 3}
+    uiInGame: {fileID: 3092406264023642160, guid: 2cd6c9acc142ed94bbe60f5282d8c47e, type: 3}
+  - modeGameType: 6
+    gameManager: {fileID: 2673111556013940025, guid: 045d3d2da4590af4993bc77af51f6c75, type: 3}
+    uiInGame: {fileID: 3092406264023642160, guid: 2cd6c9acc142ed94bbe60f5282d8c47e, type: 3}

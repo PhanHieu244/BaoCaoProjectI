@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc29265b6ffe4a8ca92c3da12325be99, type: 3}
+  m_Name: 0028.cake_birthday
+  m_EditorClassIdentifier: 
+  skinImage:
+  - {fileID: 21300000, guid: 870fc92dd3457304eb547b30e72798c3, type: 3}
+  - {fileID: 21300000, guid: 8970adfaab43be7488fa1077fab59827, type: 3}
+  - {fileID: 21300000, guid: 48cd5b5473623c349ba46208b0af5c0f, type: 3}
+  - {fileID: 21300000, guid: 997d066f118c4b6449007da49f3cd143, type: 3}
+  - {fileID: 21300000, guid: b2bde9d4439d4534bb17edf4147439a1, type: 3}
+  - {fileID: 21300000, guid: 320789bd5169ef94c8d2482f91a79049, type: 3}
+  - {fileID: 21300000, guid: 5fb77d54c28e0df42b0c0925a4d52c60, type: 3}
+  - {fileID: 21300000, guid: abeb6633c15b6d648b425d7b5d56cd31, type: 3}
+  - {fileID: 21300000, guid: 96cd759d4eab3a7469d565a3d86f9e53, type: 3}
+  - {fileID: 21300000, guid: bad11dd17b5144d489f035757499970c, type: 3}
+  - {fileID: 21300000, guid: 91fc8928f55891047a0af6e8b74f9937, type: 3}
+  - {fileID: 21300000, guid: 3a88ba6f954ea0e438fd5f6b8681a83d, type: 3}
+  - {fileID: 21300000, guid: e1e874c7c45740246b6c80a647cfb7d0, type: 3}
+  - {fileID: 21300000, guid: 0c991c2b472c42f4da5c7cbc18c1c81b, type: 3}
+  - {fileID: 21300000, guid: 46784c1e1bfaa054b8bbf69a8e075813, type: 3}
+  - {fileID: 21300000, guid: 079c053a30adc7b439df03001360700f, type: 3}
+  - {fileID: 21300000, guid: 938d2b2869657754c8890b8b18f8419b, type: 3}
+  - {fileID: 21300000, guid: 4a36acf3fd3b563448f431b9ed9aad4b, type: 3}
+  - {fileID: 21300000, guid: 967ee9013341d5148be4f6a2525f3e46, type: 3}
+  - {fileID: 21300000, guid: 06772f5cbf40c83499d6c35f086511a8, type: 3}
+  - {fileID: 21300000, guid: 88ec1d4b7f1007042938c94fb98baefc, type: 3}
+  - {fileID: 21300000, guid: 713f044c3bf69ff40a8c1bac273477b7, type: 3}
+  - {fileID: 21300000, guid: ea9fe25984804fe4f83a3fa5aabe1bf0, type: 3}
+  - {fileID: 21300000, guid: b3f8e1536c4ab3d4789e4458a69a3a1d, type: 3}
+  - {fileID: 21300000, guid: 3139c381a9e0978429663275a5098726, type: 3}
+  - {fileID: 21300000, guid: cefaf2c9cc6884244a33ad7e9d2c6415, type: 3}
+  - {fileID: 21300000, guid: ad15480291ab66947b6ec958376511e6, type: 3}
+  <SkinShape>k__BackingField: {fileID: 21300000, guid: 0079ac26120599d43a6f128e64a92e9c, type: 3}
+  <ShowFullSkin>k__BackingField: 1
+  <NameToLoad>k__BackingField: 0028.cake_birthday
+  skinListEditor:
+  - size: 0
+    color: 1
+    skinImage: {fileID: 21300000, guid: 870fc92dd3457304eb547b30e72798c3, type: 3}
+  - size: 0
+    color: 2
+    skinImage: {fileID: 21300000, guid: 997d066f118c4b6449007da49f3cd143, type: 3}
+  - size: 0
+    color: 3
+    skinImage: {fileID: 21300000, guid: 5fb77d54c28e0df42b0c0925a4d52c60, type: 3}
+  - size: 0
+    color: 4
+    skinImage: {fileID: 21300000, guid: bad11dd17b5144d489f035757499970c, type: 3}
+  - size: 0
+    color: 5
+    skinImage: {fileID: 21300000, guid: e1e874c7c45740246b6c80a647cfb7d0, type: 3}
+  - size: 0
+    color: 6
+    skinImage: {fileID: 21300000, guid: 079c053a30adc7b439df03001360700f, type: 3}
+  - size: 0
+    color: 7
+    skinImage: {fileID: 21300000, guid: 967ee9013341d5148be4f6a2525f3e46, type: 3}
+  - size: 0
+    color: 8
+    skinImage: {fileID: 21300000, guid: 713f044c3bf69ff40a8c1bac273477b7, type: 3}
+  - size: 0
+    color: 9
+    skinImage: {fileID: 21300000, guid: 3139c381a9e0978429663275a5098726, type: 3}
+  - size: 1
+    color: 1
+    skinImage: {fileID: 21300000, guid: 8970adfaab43be7488fa1077fab59827, type: 3}
+  - size: 1
+    color: 2
+    skinImage: {fileID: 21300000, guid: b2bde9d4439d4534bb17edf4147439a1, type: 3}
+  - size: 1
+    color: 3
+    skinImage: {fileID: 21300000, guid: abeb6633c15b6d648b425d7b5d56cd31, type: 3}
+  - size: 1
+    color: 4
+    skinImage: {fileID: 21300000, guid: 91fc8928f55891047a0af6e8b74f9937, type: 3}
+  - size: 1
+    color: 5
+    skinImage: {fileID: 21300000, guid: 0c991c2b472c42f4da5c7cbc18c1c81b, type: 3}
+  - size: 1
+    color: 6
+    skinImage: {fileID: 21300000, guid: 938d2b2869657754c8890b8b18f8419b, type: 3}
+  - size: 1
+    color: 7
+    skinImage: {fileID: 21300000, guid: 06772f5cbf40c83499d6c35f086511a8, type: 3}
+  - size: 1
+    color: 8
+    skinImage: {fileID: 21300000, guid: ea9fe25984804fe4f83a3fa5aabe1bf0, type: 3}
+  - size: 1
+    color: 9
+    skinImage: {fileID: 21300000, guid: cefaf2c9cc6884244a33ad7e9d2c6415, type: 3}
+  - size: 2
+    color: 1
+    skinImage: {fileID: 21300000, guid: 48cd5b5473623c349ba46208b0af5c0f, type: 3}
+  - size: 2
+    color: 2
+    skinImage: {fileID: 21300000, guid: 320789bd5169ef94c8d2482f91a79049, type: 3}
+  - size: 2
+    color: 3
+    skinImage: {fileID: 21300000, guid: 96cd759d4eab3a7469d565a3d86f9e53, type: 3}
+  - size: 2
+    color: 4
+    skinImage: {fileID: 21300000, guid: 3a88ba6f954ea0e438fd5f6b8681a83d, type: 3}
+  - size: 2
+    color: 5
+    skinImage: {fileID: 21300000, guid: 46784c1e1bfaa054b8bbf69a8e075813, type: 3}
+  - size: 2
+    color: 6
+    skinImage: {fileID: 21300000, guid: 4a36acf3fd3b563448f431b9ed9aad4b, type: 3}
+  - size: 2
+    color: 7
+    skinImage: {fileID: 21300000, guid: 88ec1d4b7f1007042938c94fb98baefc, type: 3}
+  - size: 2
+    color: 8
+    skinImage: {fileID: 21300000, guid: b3f8e1536c4ab3d4789e4458a69a3a1d, type: 3}
+  - size: 2
+    color: 9
+    skinImage: {fileID: 21300000, guid: ad15480291ab66947b6ec958376511e6, type: 3}

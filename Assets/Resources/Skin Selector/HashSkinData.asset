@@ -1,0 +1,297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f65d73d345fb7d47b51b4a4d46969f4, type: 3}
+  m_Name: HashSkinData
+  m_EditorClassIdentifier: 
+  <ResourceSkinNames>k__BackingField:
+  - 0000.rings_wood_stroke
+  - 0001.bird
+  - 0002.pastel
+  - 0003.cowboys
+  - 0004.diamond
+  - 0005.eggs
+  - 0006.fish
+  - 0007.graduate
+  - 0008.hexagon_cookies
+  - 0009.hexagon_origami
+  - 0010.ice_cream
+  - 0011.lipstick
+  - 0012.bow_ribbon
+  - 0013.rhombus_diamond
+  - 0014.rhombus_wood
+  - 0015.rings_diamond
+  - 0016.rocket
+  - 0017.scissors
+  - 0018.square_diamond
+  - 0019.square_wood
+  - 0020.bell_christmas
+  - 0021.Christmas_trees
+  - 0022.snow_flake
+  - 0023.cactus
+  - 0024.Socks_christmas_skin
+  - 0025.pumpkin
+  - 0026.witch
+  - 0027.cake
+  - 0028.cake_birthday
+  - 0029.bubbles
+  - 0030.donut_circle
+  - 0031.Ice_cream
+  - 0032.Metal
+  - 0033.alarm_clock
+  - 0034.pizza
+  - 0035.turkey_chicken
+  - 0036.vintage_phone
+  - 0037.turtle
+  - 0038.gift_box
+  - 0039.conch
+  - 0040.cooking_pot
+  - 0041.rugby
+  - 0042.tennis_racket
+  - 0043.cup
+  - 0044.badminton
+  - 0045.milk
+  - 0046.captain_shield
+  - 0047.macaron
+  - 0048.knoll_christmas
+  - 0049.cookies_christmas
+  - 0050.toilet
+  - 0051.megaphone
+  - 0052.saturn
+  - 0053.rabbit
+  - 0054.chocolate
+  - 0055.headphone
+  <UnAvailableInGame>k__BackingField: 
+  <HashIds>k__BackingField:
+  - id: 0
+    nameSkin: 0000.rings_wood_stroke
+    resourceName: 0000.rings_wood_stroke
+    availableInGame: 1
+  - id: 1
+    nameSkin: 0001.bird
+    resourceName: 0001.bird
+    availableInGame: 1
+  - id: 2
+    nameSkin: 0002.pastel
+    resourceName: 0002.pastel
+    availableInGame: 1
+  - id: 3
+    nameSkin: 0003.cowboys
+    resourceName: 0003.cowboys
+    availableInGame: 1
+  - id: 4
+    nameSkin: 0004.diamond
+    resourceName: 0004.diamond
+    availableInGame: 1
+  - id: 5
+    nameSkin: 0005.eggs
+    resourceName: 0005.eggs
+    availableInGame: 1
+  - id: 6
+    nameSkin: 0006.fish
+    resourceName: 0006.fish
+    availableInGame: 1
+  - id: 7
+    nameSkin: 0007.graduate
+    resourceName: 0007.graduate
+    availableInGame: 1
+  - id: 8
+    nameSkin: 0008.hexagon_cookies
+    resourceName: 0008.hexagon_cookies
+    availableInGame: 1
+  - id: 9
+    nameSkin: 0009.hexagon_origami
+    resourceName: 0009.hexagon_origami
+    availableInGame: 1
+  - id: 10
+    nameSkin: 0010.ice_cream
+    resourceName: 0010.ice_cream
+    availableInGame: 1
+  - id: 11
+    nameSkin: 0011.lipstick
+    resourceName: 0011.lipstick
+    availableInGame: 1
+  - id: 12
+    nameSkin: 0012.bow_ribbon
+    resourceName: 0012.bow_ribbon
+    availableInGame: 1
+  - id: 13
+    nameSkin: 0013.rhombus_diamond
+    resourceName: 0013.rhombus_diamond
+    availableInGame: 1
+  - id: 14
+    nameSkin: 0014.rhombus_wood
+    resourceName: 0014.rhombus_wood
+    availableInGame: 1
+  - id: 15
+    nameSkin: 0015.rings_diamond
+    resourceName: 0015.rings_diamond
+    availableInGame: 1
+  - id: 16
+    nameSkin: 0016.rocket
+    resourceName: 0016.rocket
+    availableInGame: 1
+  - id: 17
+    nameSkin: 0017.scissors
+    resourceName: 0017.scissors
+    availableInGame: 1
+  - id: 18
+    nameSkin: 0018.square_diamond
+    resourceName: 0018.square_diamond
+    availableInGame: 1
+  - id: 19
+    nameSkin: 0019.square_wood
+    resourceName: 0019.square_wood
+    availableInGame: 1
+  - id: 20
+    nameSkin: 0020.bell_christmas
+    resourceName: 0020.bell_christmas
+    availableInGame: 1
+  - id: 21
+    nameSkin: 0021.Christmas_trees
+    resourceName: 0021.Christmas_trees
+    availableInGame: 1
+  - id: 22
+    nameSkin: 0022.snow_flake
+    resourceName: 0022.snow_flake
+    availableInGame: 1
+  - id: 23
+    nameSkin: 0023.cactus
+    resourceName: 0023.cactus
+    availableInGame: 1
+  - id: 24
+    nameSkin: 0024.Socks_christmas_skin
+    resourceName: 0024.Socks_christmas_skin
+    availableInGame: 1
+  - id: 25
+    nameSkin: 0025.pumpkin
+    resourceName: 0025.pumpkin
+    availableInGame: 1
+  - id: 26
+    nameSkin: 0026.witch
+    resourceName: 0026.witch
+    availableInGame: 1
+  - id: 27
+    nameSkin: 0027.cake
+    resourceName: 0027.cake
+    availableInGame: 1
+  - id: 28
+    nameSkin: 0028.cake_birthday
+    resourceName: 0028.cake_birthday
+    availableInGame: 1
+  - id: 29
+    nameSkin: 0029.bubbles
+    resourceName: 0029.bubbles
+    availableInGame: 1
+  - id: 30
+    nameSkin: 0030.donut_circle
+    resourceName: 0030.donut_circle
+    availableInGame: 1
+  - id: 31
+    nameSkin: 0031.Ice_cream
+    resourceName: 0031.Ice_cream
+    availableInGame: 1
+  - id: 32
+    nameSkin: 0032.Metal
+    resourceName: 0032.Metal
+    availableInGame: 1
+  - id: 33
+    nameSkin: 0033.alarm_clock
+    resourceName: 0033.alarm_clock
+    availableInGame: 1
+  - id: 34
+    nameSkin: 0034.pizza
+    resourceName: 0034.pizza
+    availableInGame: 1
+  - id: 35
+    nameSkin: 0035.turkey_chicken
+    resourceName: 0035.turkey_chicken
+    availableInGame: 1
+  - id: 36
+    nameSkin: 0036.vintage_phone
+    resourceName: 0036.vintage_phone
+    availableInGame: 1
+  - id: 37
+    nameSkin: 0037.turtle
+    resourceName: 0037.turtle
+    availableInGame: 1
+  - id: 38
+    nameSkin: 0038.gift_box
+    resourceName: 0038.gift_box
+    availableInGame: 1
+  - id: 39
+    nameSkin: 0039.conch
+    resourceName: 0039.conch
+    availableInGame: 1
+  - id: 40
+    nameSkin: 0040.cooking_pot
+    resourceName: 0040.cooking_pot
+    availableInGame: 1
+  - id: 41
+    nameSkin: 0041.rugby
+    resourceName: 0041.rugby
+    availableInGame: 1
+  - id: 42
+    nameSkin: 0042.tennis_racket
+    resourceName: 0042.tennis_racket
+    availableInGame: 1
+  - id: 43
+    nameSkin: 0043.cup
+    resourceName: 0043.cup
+    availableInGame: 1
+  - id: 44
+    nameSkin: 0044.badminton
+    resourceName: 0044.badminton
+    availableInGame: 1
+  - id: 45
+    nameSkin: 0045.milk
+    resourceName: 0045.milk
+    availableInGame: 1
+  - id: 46
+    nameSkin: 0046.captain_shield
+    resourceName: 0046.captain_shield
+    availableInGame: 1
+  - id: 47
+    nameSkin: 0047.macaron
+    resourceName: 0047.macaron
+    availableInGame: 1
+  - id: 48
+    nameSkin: 0048.knoll_christmas
+    resourceName: 0048.knoll_christmas
+    availableInGame: 1
+  - id: 49
+    nameSkin: 0049.cookies_christmas
+    resourceName: 0049.cookies_christmas
+    availableInGame: 1
+  - id: 50
+    nameSkin: 0050.toilet
+    resourceName: 0050.toilet
+    availableInGame: 1
+  - id: 51
+    nameSkin: 0051.megaphone
+    resourceName: 0051.megaphone
+    availableInGame: 1
+  - id: 52
+    nameSkin: 0052.saturn
+    resourceName: 0052.saturn
+    availableInGame: 1
+  - id: 53
+    nameSkin: 0053.rabbit
+    resourceName: 0053.rabbit
+    availableInGame: 1
+  - id: 54
+    nameSkin: 0054.chocolate
+    resourceName: 0054.chocolate
+    availableInGame: 1
+  - id: 55
+    nameSkin: 0055.headphone
+    resourceName: 0055.headphone
+    availableInGame: 1

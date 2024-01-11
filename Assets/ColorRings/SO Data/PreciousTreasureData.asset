@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 316fe9f9660743f4ae9f552f01ef2867, type: 3}
+  m_Name: PreciousTreasureData
+  m_EditorClassIdentifier: 
+  treasureChests:
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 20
+    <Gift>k__BackingField:
+      rid: 8438582691790848237
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 60
+    <Gift>k__BackingField:
+      rid: 8438582763548049652
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 100
+    <Gift>k__BackingField:
+      rid: 8438582763548049653
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 150
+    <Gift>k__BackingField:
+      rid: 8438582763548049654
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 190
+    <Gift>k__BackingField:
+      rid: 8438582763548049655
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 200
+    <Gift>k__BackingField:
+      rid: 8438582603667735066
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 230
+    <Gift>k__BackingField:
+      rid: 8438582691790848239
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 270
+    <Gift>k__BackingField:
+      rid: 8438582763548049656
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 310
+    <Gift>k__BackingField:
+      rid: 8438582691790848238
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 360
+    <Gift>k__BackingField:
+      rid: 8438582763548049657
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 400
+    <Gift>k__BackingField:
+      rid: 8438582763548049658
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 440
+    <Gift>k__BackingField:
+      rid: 8438582763548049659
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 480
+    <Gift>k__BackingField:
+      rid: 8438582763548049660
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 520
+    <Gift>k__BackingField:
+      rid: 8438582763548049661
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 560
+    <Gift>k__BackingField:
+      rid: 8438582763548049662
+  - <BreakRingsMission>k__BackingField:
+      <RingsAmount>k__BackingField: 610
+    <Gift>k__BackingField:
+      rid: 8438582763548049663
+  references:
+    version: 2
+    RefIds:
+    - rid: 8438582603667735066
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1904446406
+          hiddenValue: 1904446407
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582691790848237
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1117892740
+          hiddenValue: 1117892832
+          fakeValue: 100
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582691790848238
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1106100670
+          hiddenValue: 1106100548
+          fakeValue: 250
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582691790848239
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1970540425
+          hiddenValue: 1970540525
+          fakeValue: 100
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049652
+      type: {class: DestroyRowGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1667993176
+          hiddenValue: 1667993177
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049653
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1483835717
+          hiddenValue: 1483835681
+          fakeValue: 100
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049654
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1109135813
+          hiddenValue: 1109135777
+          fakeValue: 100
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049655
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1023474875
+          hiddenValue: 1023474874
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049656
+      type: {class: HammerGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1045535111
+          hiddenValue: 1045535110
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049657
+      type: {class: SwapRingGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1877988529
+          hiddenValue: 1877988528
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049658
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1178273877
+          hiddenValue: 1178273967
+          fakeValue: 250
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049659
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1508815475
+          hiddenValue: 1508815474
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049660
+      type: {class: HammerGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1008374098
+          hiddenValue: 1008374099
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049661
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1434932567
+          hiddenValue: 1434932387
+          fakeValue: 500
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049662
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 2057050798
+          hiddenValue: 2057050799
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049663
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1794178201
+          hiddenValue: 1794178929
+          fakeValue: 1000
+          fakeValueActive: 1
+          inited: 1

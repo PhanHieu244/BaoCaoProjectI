@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc29265b6ffe4a8ca92c3da12325be99, type: 3}
+  m_Name: 0024.Socks_christmas_skin
+  m_EditorClassIdentifier: 
+  skinImage:
+  - {fileID: 21300000, guid: 383d8e630c3d9c74c850e5ebe7ab0986, type: 3}
+  - {fileID: 21300000, guid: 4b0866f0d4a498d4e881bce90be4792d, type: 3}
+  - {fileID: 21300000, guid: 3b9bed5063314884aa76d229529641ca, type: 3}
+  - {fileID: 21300000, guid: 699b8b49f3246ab4ebb1d80cf563fe39, type: 3}
+  - {fileID: 21300000, guid: 53da8325444e25440b875c220b614390, type: 3}
+  - {fileID: 21300000, guid: c94860cb52463814ca7adbe701445545, type: 3}
+  - {fileID: 21300000, guid: 0bc4d5186f0aa3143b6eedf788e215df, type: 3}
+  - {fileID: 21300000, guid: 5d749032020f5504287bc73d69db7a3b, type: 3}
+  - {fileID: 21300000, guid: e4c09c6b41bb8cb4dac67d52603d5fb1, type: 3}
+  - {fileID: 21300000, guid: f4aee780ea8de174a9f1e66d41354d87, type: 3}
+  - {fileID: 21300000, guid: 594d50453158fcc48aadf4149b4a5924, type: 3}
+  - {fileID: 21300000, guid: 6249540fcd457994c90fbf3183007df8, type: 3}
+  - {fileID: 21300000, guid: 2d583a1fc8d16bd4fa39fc24b6145ede, type: 3}
+  - {fileID: 21300000, guid: 3f58951ae9d8de84f9ba7af9e7917fba, type: 3}
+  - {fileID: 21300000, guid: 587cf7202ccbb1741bbc4962572568c9, type: 3}
+  - {fileID: 21300000, guid: e7a8fbf9aad2d674e9b63be8365795d7, type: 3}
+  - {fileID: 21300000, guid: c4cad2a3899a61e43b090f9a6483f996, type: 3}
+  - {fileID: 21300000, guid: 447c8f0c04c5cbd44a3ec4059e62545b, type: 3}
+  - {fileID: 21300000, guid: ac4e09a9473c72640b624f797ffd2270, type: 3}
+  - {fileID: 21300000, guid: 907597cf3dc84c94caef925186432aaa, type: 3}
+  - {fileID: 21300000, guid: d996e9cd56bdb1e4aaf743a8d78d67b1, type: 3}
+  - {fileID: 21300000, guid: 4a08cb97decaa8349876939cb821dbd0, type: 3}
+  - {fileID: 21300000, guid: 18551fb8722c2b84ea8b09255e168247, type: 3}
+  - {fileID: 21300000, guid: 4e6091e41397d6c49a1dc513ce867222, type: 3}
+  - {fileID: 21300000, guid: d14a9a830422afd4ca4428d32870e204, type: 3}
+  - {fileID: 21300000, guid: ddcd479d0e69d404e9d941abacbc5c91, type: 3}
+  - {fileID: 21300000, guid: 69942187f923c9d428ae13b78b45c554, type: 3}
+  <SkinShape>k__BackingField: {fileID: 21300000, guid: 3216444cd1e226c42bfdfb72b9e73118, type: 3}
+  <ShowFullSkin>k__BackingField: 1
+  <NameToLoad>k__BackingField: 0024.Socks_christmas_skin
+  skinListEditor:
+  - size: 0
+    color: 1
+    skinImage: {fileID: 21300000, guid: 383d8e630c3d9c74c850e5ebe7ab0986, type: 3}
+  - size: 0
+    color: 2
+    skinImage: {fileID: 21300000, guid: 699b8b49f3246ab4ebb1d80cf563fe39, type: 3}
+  - size: 0
+    color: 3
+    skinImage: {fileID: 21300000, guid: 0bc4d5186f0aa3143b6eedf788e215df, type: 3}
+  - size: 0
+    color: 4
+    skinImage: {fileID: 21300000, guid: f4aee780ea8de174a9f1e66d41354d87, type: 3}
+  - size: 0
+    color: 5
+    skinImage: {fileID: 21300000, guid: 2d583a1fc8d16bd4fa39fc24b6145ede, type: 3}
+  - size: 0
+    color: 6
+    skinImage: {fileID: 21300000, guid: e7a8fbf9aad2d674e9b63be8365795d7, type: 3}
+  - size: 0
+    color: 7
+    skinImage: {fileID: 21300000, guid: ac4e09a9473c72640b624f797ffd2270, type: 3}
+  - size: 0
+    color: 8
+    skinImage: {fileID: 21300000, guid: 4a08cb97decaa8349876939cb821dbd0, type: 3}
+  - size: 0
+    color: 9
+    skinImage: {fileID: 21300000, guid: d14a9a830422afd4ca4428d32870e204, type: 3}
+  - size: 1
+    color: 1
+    skinImage: {fileID: 21300000, guid: 4b0866f0d4a498d4e881bce90be4792d, type: 3}
+  - size: 1
+    color: 2
+    skinImage: {fileID: 21300000, guid: 53da8325444e25440b875c220b614390, type: 3}
+  - size: 1
+    color: 3
+    skinImage: {fileID: 21300000, guid: 5d749032020f5504287bc73d69db7a3b, type: 3}
+  - size: 1
+    color: 4
+    skinImage: {fileID: 21300000, guid: 594d50453158fcc48aadf4149b4a5924, type: 3}
+  - size: 1
+    color: 5
+    skinImage: {fileID: 21300000, guid: 3f58951ae9d8de84f9ba7af9e7917fba, type: 3}
+  - size: 1
+    color: 6
+    skinImage: {fileID: 21300000, guid: c4cad2a3899a61e43b090f9a6483f996, type: 3}
+  - size: 1
+    color: 7
+    skinImage: {fileID: 21300000, guid: 907597cf3dc84c94caef925186432aaa, type: 3}
+  - size: 1
+    color: 8
+    skinImage: {fileID: 21300000, guid: 18551fb8722c2b84ea8b09255e168247, type: 3}
+  - size: 1
+    color: 9
+    skinImage: {fileID: 21300000, guid: ddcd479d0e69d404e9d941abacbc5c91, type: 3}
+  - size: 2
+    color: 1
+    skinImage: {fileID: 21300000, guid: 3b9bed5063314884aa76d229529641ca, type: 3}
+  - size: 2
+    color: 2
+    skinImage: {fileID: 21300000, guid: c94860cb52463814ca7adbe701445545, type: 3}
+  - size: 2
+    color: 3
+    skinImage: {fileID: 21300000, guid: e4c09c6b41bb8cb4dac67d52603d5fb1, type: 3}
+  - size: 2
+    color: 4
+    skinImage: {fileID: 21300000, guid: 6249540fcd457994c90fbf3183007df8, type: 3}
+  - size: 2
+    color: 5
+    skinImage: {fileID: 21300000, guid: 587cf7202ccbb1741bbc4962572568c9, type: 3}
+  - size: 2
+    color: 6
+    skinImage: {fileID: 21300000, guid: 447c8f0c04c5cbd44a3ec4059e62545b, type: 3}
+  - size: 2
+    color: 7
+    skinImage: {fileID: 21300000, guid: d996e9cd56bdb1e4aaf743a8d78d67b1, type: 3}
+  - size: 2
+    color: 8
+    skinImage: {fileID: 21300000, guid: 4e6091e41397d6c49a1dc513ce867222, type: 3}
+  - size: 2
+    color: 9
+    skinImage: {fileID: 21300000, guid: 69942187f923c9d428ae13b78b45c554, type: 3}

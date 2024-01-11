@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc29265b6ffe4a8ca92c3da12325be99, type: 3}
+  m_Name: 0055.headphone
+  m_EditorClassIdentifier: 
+  skinImage:
+  - {fileID: 21300000, guid: 509802fb08d52414b930eaf083e35ea1, type: 3}
+  - {fileID: 21300000, guid: 08636dfecbc067545b189d72f7420f01, type: 3}
+  - {fileID: 21300000, guid: e1d0dee9144fc4449940e5e001e7fc85, type: 3}
+  - {fileID: 21300000, guid: 2802da8fa179a0a4785244ebe462f999, type: 3}
+  - {fileID: 21300000, guid: f4456345656082944b292289d51f03b1, type: 3}
+  - {fileID: 21300000, guid: 8f371eb48bba7dc4b834bdf057b52c69, type: 3}
+  - {fileID: 21300000, guid: 2835d10e67dd7a7428738c8069b6ccc9, type: 3}
+  - {fileID: 21300000, guid: 2d1cd01844e016c4db6c9de1c53e309c, type: 3}
+  - {fileID: 21300000, guid: 64a23ae2431aca8428e78cd0e3387eeb, type: 3}
+  - {fileID: 21300000, guid: aa2ec19b3d1c76f43a19d9a5aac4d904, type: 3}
+  - {fileID: 21300000, guid: 4cf99202d5c82cb498645082ee3ea910, type: 3}
+  - {fileID: 21300000, guid: 1f584b1ddad2a924f84530c5ac4f121e, type: 3}
+  - {fileID: 21300000, guid: 9d387a890781c2949ad999d0399d7f68, type: 3}
+  - {fileID: 21300000, guid: db90b73e604b21d4aa42af2f2772b51e, type: 3}
+  - {fileID: 21300000, guid: ee6c16b04f5865a48afb09aa9082de62, type: 3}
+  - {fileID: 21300000, guid: 661cb42cd3ecc104389cd1d9d6e8e509, type: 3}
+  - {fileID: 21300000, guid: 25676746bb7afce489a44faeb5dc5f38, type: 3}
+  - {fileID: 21300000, guid: f9ce7731edf31c64d9fb910e09bb7ec6, type: 3}
+  - {fileID: 21300000, guid: fb1afc78f05622643b7913941d202ed2, type: 3}
+  - {fileID: 21300000, guid: 483d66f184192a54f8c03fa6adea3132, type: 3}
+  - {fileID: 21300000, guid: 79e47c3d131f781499f7c93b7653f591, type: 3}
+  - {fileID: 21300000, guid: 528ff9d786b08fc4fbdfa02c5d93e9bb, type: 3}
+  - {fileID: 21300000, guid: 4ae98ae41638a9348beac3387619f2ef, type: 3}
+  - {fileID: 21300000, guid: d087103dc1c81b649b5cabfdba5ff763, type: 3}
+  - {fileID: 21300000, guid: ee46ee4429a755c4f88d17e05faa2025, type: 3}
+  - {fileID: 21300000, guid: fa6ef6e46fb5d6c44a9cedad57ad652b, type: 3}
+  - {fileID: 21300000, guid: 6de0e0f03ce55824aab8230317ac1afa, type: 3}
+  <SkinShape>k__BackingField: {fileID: 21300000, guid: 3aee1fa334ab845478f3b3ca2f3b384b, type: 3}
+  <ShowFullSkin>k__BackingField: 1
+  <NameToLoad>k__BackingField: 0055.headphone
+  skinListEditor:
+  - size: 0
+    color: 1
+    skinImage: {fileID: 21300000, guid: 509802fb08d52414b930eaf083e35ea1, type: 3}
+  - size: 0
+    color: 2
+    skinImage: {fileID: 21300000, guid: 2802da8fa179a0a4785244ebe462f999, type: 3}
+  - size: 0
+    color: 3
+    skinImage: {fileID: 21300000, guid: 2835d10e67dd7a7428738c8069b6ccc9, type: 3}
+  - size: 0
+    color: 4
+    skinImage: {fileID: 21300000, guid: aa2ec19b3d1c76f43a19d9a5aac4d904, type: 3}
+  - size: 0
+    color: 5
+    skinImage: {fileID: 21300000, guid: 9d387a890781c2949ad999d0399d7f68, type: 3}
+  - size: 0
+    color: 6
+    skinImage: {fileID: 21300000, guid: 661cb42cd3ecc104389cd1d9d6e8e509, type: 3}
+  - size: 0
+    color: 7
+    skinImage: {fileID: 21300000, guid: fb1afc78f05622643b7913941d202ed2, type: 3}
+  - size: 0
+    color: 8
+    skinImage: {fileID: 21300000, guid: 528ff9d786b08fc4fbdfa02c5d93e9bb, type: 3}
+  - size: 0
+    color: 9
+    skinImage: {fileID: 21300000, guid: ee46ee4429a755c4f88d17e05faa2025, type: 3}
+  - size: 1
+    color: 1
+    skinImage: {fileID: 21300000, guid: 08636dfecbc067545b189d72f7420f01, type: 3}
+  - size: 1
+    color: 2
+    skinImage: {fileID: 21300000, guid: f4456345656082944b292289d51f03b1, type: 3}
+  - size: 1
+    color: 3
+    skinImage: {fileID: 21300000, guid: 2d1cd01844e016c4db6c9de1c53e309c, type: 3}
+  - size: 1
+    color: 4
+    skinImage: {fileID: 21300000, guid: 4cf99202d5c82cb498645082ee3ea910, type: 3}
+  - size: 1
+    color: 5
+    skinImage: {fileID: 21300000, guid: db90b73e604b21d4aa42af2f2772b51e, type: 3}
+  - size: 1
+    color: 6
+    skinImage: {fileID: 21300000, guid: 25676746bb7afce489a44faeb5dc5f38, type: 3}
+  - size: 1
+    color: 7
+    skinImage: {fileID: 21300000, guid: 483d66f184192a54f8c03fa6adea3132, type: 3}
+  - size: 1
+    color: 8
+    skinImage: {fileID: 21300000, guid: 4ae98ae41638a9348beac3387619f2ef, type: 3}
+  - size: 1
+    color: 9
+    skinImage: {fileID: 21300000, guid: fa6ef6e46fb5d6c44a9cedad57ad652b, type: 3}
+  - size: 2
+    color: 1
+    skinImage: {fileID: 21300000, guid: e1d0dee9144fc4449940e5e001e7fc85, type: 3}
+  - size: 2
+    color: 2
+    skinImage: {fileID: 21300000, guid: 8f371eb48bba7dc4b834bdf057b52c69, type: 3}
+  - size: 2
+    color: 3
+    skinImage: {fileID: 21300000, guid: 64a23ae2431aca8428e78cd0e3387eeb, type: 3}
+  - size: 2
+    color: 4
+    skinImage: {fileID: 21300000, guid: 1f584b1ddad2a924f84530c5ac4f121e, type: 3}
+  - size: 2
+    color: 5
+    skinImage: {fileID: 21300000, guid: ee6c16b04f5865a48afb09aa9082de62, type: 3}
+  - size: 2
+    color: 6
+    skinImage: {fileID: 21300000, guid: f9ce7731edf31c64d9fb910e09bb7ec6, type: 3}
+  - size: 2
+    color: 7
+    skinImage: {fileID: 21300000, guid: 79e47c3d131f781499f7c93b7653f591, type: 3}
+  - size: 2
+    color: 8
+    skinImage: {fileID: 21300000, guid: d087103dc1c81b649b5cabfdba5ff763, type: 3}
+  - size: 2
+    color: 9
+    skinImage: {fileID: 21300000, guid: 6de0e0f03ce55824aab8230317ac1afa, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Resources/Skin Selector/HashSkinData.asset.meta
+guid: b85f2ba6322884744bdbc0ea335138c4
+NativeFormatImporter:
+========
+guid: ee5feb184a99efe499e01d392bd1d447
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> feature/NewMode:Assets/Resources/BoardShapes.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782609899414",
+    "project_id": "ring-sort-color-puzzle",
+    "storage_bucket": "ring-sort-color-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782609899414:android:9d2c2f731057bd33e547b7",
+        "android_client_info": {
+          "package_name": "com.falcon.ring.sort.coloring.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782609899414-0tl6felkrgeq6d81lhu22h0cgutjlgi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITVrK11RTU_f7c5XwIu09sn-xBOLgokw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782609899414-0tl6felkrgeq6d81lhu22h0cgutjlgi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

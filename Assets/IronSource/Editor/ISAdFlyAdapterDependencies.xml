@@ -1,0 +1,10 @@
+<dependencies>
+<unityversion>4.3.37.2</unityversion>
+<androidPackages>
+  <androidPackage spec="pub.adfly:adapter-ironsource:0.14.3.0">
+    <repositories>
+      <repository>https://repo1.maven.org/maven2/</repository>
+    </repositories>
+  </androidPackage>
+</androidPackages>
+</dependencies>

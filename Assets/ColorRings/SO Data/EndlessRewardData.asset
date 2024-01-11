@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a886c776152e4ecd933d037a95020c64, type: 3}
+  m_Name: EndlessRewardData
+  m_EditorClassIdentifier: 
+  <EndlessRewardPackages>k__BackingField:
+  - <Point>k__BackingField: 1
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049645
+  - <Point>k__BackingField: 2
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049643
+  - <Point>k__BackingField: 3
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049642
+  - <Point>k__BackingField: 4
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049641
+  - <Point>k__BackingField: 5
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049638
+      - rid: 8438582763548049639
+      - rid: 8438582763548049640
+  - <Point>k__BackingField: 6
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049635
+      - rid: 8438582763548049636
+      - rid: 8438582763548049637
+  - <Point>k__BackingField: 8
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049631
+  - <Point>k__BackingField: 9
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049632
+      - rid: 8438582763548049633
+      - rid: 8438582763548049634
+  - <Point>k__BackingField: 14
+    <RewardPackage>k__BackingField:
+      gifts:
+      - rid: 8438582763548049629
+      - rid: 8438582763548049630
+  references:
+    version: 2
+    RefIds:
+    - rid: 8438582763548049629
+      type: {class: HammerGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1814354132
+          hiddenValue: 1814354133
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049630
+      type: {class: SwapRingGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1642479032
+          hiddenValue: 1642479033
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049631
+      type: {class: DestroyRowGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1081911634
+          hiddenValue: 1081911635
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049632
+      type: {class: DestroyRowGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1860996896
+          hiddenValue: 1860996897
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049633
+      type: {class: SwapRingGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1301879870
+          hiddenValue: 1301879871
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049634
+      type: {class: DestroyRowGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1714797698
+          hiddenValue: 1714797699
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049635
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1383425808
+          hiddenValue: 1383425809
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049636
+      type: {class: SkinGift, ns: , asm: Assembly-CSharp}
+      data:
+        <ID>k__BackingField:
+          currentCryptoKey: 0
+          hiddenValue: 0
+          fakeValue: 0
+          fakeValueActive: 0
+          inited: 0
+    - rid: 8438582763548049637
+      type: {class: Coin, ns: , asm: Assembly-CSharp}
+      data:
+        <Value>k__BackingField:
+          currentCryptoKey: 1023694696
+          hiddenValue: 1023694604
+          fakeValue: 100
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049638
+      type: {class: HammerGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 2037198493
+          hiddenValue: 2037198492
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049639
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1418127009
+          hiddenValue: 1418127008
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049640
+      type: {class: SwapRingGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1021445617
+          hiddenValue: 1021445616
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049641
+      type: {class: DestroyRowGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1089364185
+          hiddenValue: 1089364184
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049642
+      type: {class: SwapRingGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1039067197
+          hiddenValue: 1039067196
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049643
+      type: {class: DestroyColGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1115479245
+          hiddenValue: 1115479244
+          fakeValue: 1
+          fakeValueActive: 1
+          inited: 1
+    - rid: 8438582763548049645
+      type: {class: HammerGift, ns: , asm: Assembly-CSharp}
+      data:
+        rewardPowerUpAmount:
+          currentCryptoKey: 1111867629
+          hiddenValue: 1111867631
+          fakeValue: 2
+          fakeValueActive: 1
+          inited: 1
